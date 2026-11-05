@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+app/android/
+app/ios/
+app/google-services.json
+app/.env
+*.apk
+.env
+*.log

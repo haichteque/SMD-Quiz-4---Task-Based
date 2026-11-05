@@ -1,0 +1,7 @@
+{
+  "countryCode": "+92",
+  "nationalNumber": "3001234567",
+  "otp": "123456",
+  "wrongOtp": "000000",
+  "smsSender": "12345"
+}
